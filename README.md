@@ -11,4 +11,4 @@ link figma :https://www.figma.com/design/bKk4extFU3ceZLHnFXrJ3R/Untitled?node-id
 
 link github: https://github.com/impact2077/BTGK
 
-link video: 
+link video: https://youtu.be/EEL0BUrdDcs
