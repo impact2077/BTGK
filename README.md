@@ -9,6 +9,6 @@ công nghệ sử dụng : claude
 
 link figma :https://www.figma.com/design/bKk4extFU3ceZLHnFXrJ3R/Untitled?node-id=0-1&t=BUAga2AuejrSll31-1
 
-link github:
+link github: https://github.com/impact2077/BTGK
 
 link video: 
